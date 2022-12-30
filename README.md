@@ -7,9 +7,7 @@
 
 <br>
 
-<p align="center">
-<img src="./assets/biscoito-sorte.gif" alt="My Project GIF" width="500" height="600">
-</p>
+![screen-gif](./assets//biscoito-sorte.gif)
 
 Você pode visualizar projeto completo através [DESSE LINK](https://sarahvjustino.github.io/biscoito-da-sorte-Explorer/)
 
